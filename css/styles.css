@@ -1,0 +1,26 @@
+body {
+  text-align: center;
+  background-color: #AFEEEE;
+}
+img {
+  width: 500px;
+}
+p {
+  width: 50%
+  line-height: 10px;
+}
+.intro {
+  font-style: bold;
+}
+.flashy {
+  color: red;
+  font-style: italic;
+  font-size: 40px;
+}
+ul {
+  list-style: none;
+}
+.best {
+  font-size: 25px;
+  color: pink;
+}
